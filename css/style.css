@@ -7,6 +7,7 @@ figcaption{
 /*  font-size: 0.75em;
   font-weight: normal;
   line-height: 1.5em;
-  font-family: Georgia;*/
+  font-family: Georgia, "New Tomes Roman", serif;*/
   font :normal 0.75/1.5em Georgia, "New Tomes Roman", serif;
+  color: #000;
 }
